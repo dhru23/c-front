@@ -60,6 +60,6 @@
     ]
   },
   "devDependencies": {
-    "tailwindcss": "^3.4.13"                   // No React dependency, stays as is
+    "tailwindcss": "^3.4.13"                   
   }
 }
